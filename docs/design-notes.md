@@ -8,8 +8,8 @@
   and **2.5" D**, summarized as **6.75" × 8" × 2.5"**, with the note "Pouch for medium freezer bag".
 - **Side view:** the pouch with a J-hook on the back, "Attach to bucket with this hook".
   The hook top is **1.25"** across (the throat), and the leg is **4"** long.
-- A small tick mark at the top center of the front edge. It might be a finger notch
-  for grabbing the bag. It is **not modeled yet** (see questions below).
+- A small tick mark at the top center of the front edge. The owner confirmed it is **not** a
+  finger notch; the simple open-top design stays.
 
 ## Interpretation used in v0.1
 
