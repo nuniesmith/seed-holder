@@ -1,0 +1,43 @@
+{
+  "units": "mm",
+  "checks": [
+    {
+      "file": "hook_test.stl",
+      "triangles": 76,
+      "size_mm": [
+        39.15,
+        141.6,
+        15.0
+      ],
+      "min_z_mm": 0.0,
+      "connected_components": 1,
+      "nonmanifold_edges": 0,
+      "inconsistent_winding_edges": 0,
+      "degenerate_triangles": 0,
+      "volume_mm3": 15215.931,
+      "fits_220mm_bed_with_10mm_brim_per_side": true,
+      "within_250mm_z": true,
+      "sha256": "5a47503c776f8a13cb7cfbf47af3973a44c588acc9e82790249440dff6c4aea1"
+    },
+    {
+      "file": "pouch.stl",
+      "triangles": 556,
+      "size_mm": [
+        176.25,
+        105.05,
+        205.6
+      ],
+      "min_z_mm": 0.0,
+      "connected_components": 1,
+      "nonmanifold_edges": 0,
+      "inconsistent_winding_edges": 0,
+      "degenerate_triangles": 0,
+      "volume_mm3": 294059.13,
+      "fits_220mm_bed_with_10mm_brim_per_side": true,
+      "within_250mm_z": true,
+      "sha256": "17fd2d82942491fe498eecd91fa35315efd1bf6fdf1fcf8148318ec016142812"
+    }
+  ],
+  "source_sha256": "68dc58e5ed750c47d71fa1b045deaa6b511b1e020f186166f1a10d02a845749a",
+  "scope": "Closed oriented mesh, nonzero triangles, one component and nominal Ender 3 Neo envelope (220 x 220 x 250 mm). Not a slicer, material-strength or physical-fit certification."
+}
